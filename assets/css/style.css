@@ -76,10 +76,23 @@
 
 /* #endregion contact */
 
-/* #region about */
-
-
-/* #endregion about */
+/* #region info */
+#info{
+    background-color: var(--Boot-secondary_light);
+}
+.location{
+    background-color: aqua;
+    height: 80px;
+}
+.web{
+    background-color: beige;
+    height: 80px;
+}
+.freelance{
+    background-color: brown;
+    height: 80px;
+}
+/* #endregion info */
 
 /* #endregion main */
 
