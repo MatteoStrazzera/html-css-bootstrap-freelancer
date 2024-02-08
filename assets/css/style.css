@@ -1,0 +1,12 @@
+/* #region common */
+
+:root{
+    --Boot-primary: rgba(26, 188, 156, 1);
+    --Boot-secondary_light: rgba(58, 84, 109, 1);
+    --Boot-secondary_dark: rgba(44, 62, 80, 1);
+    --Boot-lighter: rgba(255, 255, 255, 1);
+    --Boot-darkest: rgba(51, 51, 51, 1);
+    
+}
+
+/* #endregion common */
