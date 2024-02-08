@@ -31,7 +31,15 @@
 /* #region main */
 
 /* #region start */
+#start{
+    background-color: var(--Boot-primary);
 
+    & .jumbotron{
+        
+        height: 200px;
+        background-color: yellowgreen;
+    }
+}
 
 /* #endregion start */
 
