@@ -97,6 +97,11 @@
 /* #endregion main */
 
 /* #region footer */
-
-
+#site_footer{
+    background-color: var(--Boot-secondary_dark);
+}
+.copyright{
+    background-color: violet;
+    height: 50px;
+}
 /* #endregion footer */
