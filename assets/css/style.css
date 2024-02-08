@@ -54,12 +54,25 @@
 /* #endregion portfolio */
 
 /* #region about */
-
+#about{
+    background-color: var(--Boot-primary);
+}
+.text{
+    background-color: burlywood;
+    height: 100px;
+}
+.btn{
+    background-color: purple;
+    height: 50px;
+}
 
 /* #endregion about */
 
 /* #region contact */
-
+.list{
+    background-color: blueviolet;
+    height: 100px;
+}
 
 /* #endregion contact */
 
