@@ -33,7 +33,6 @@ button.btn.btn-primary{
 /* #region start */
 #start{
     background-color: var(--Boot-primary);
-
 }
 
 /* #endregion start */
@@ -50,15 +49,15 @@ button.btn.btn-primary{
 /* #endregion about */
 
 /* #region contact */
-.list{
-    background-color: blueviolet;
-    height: 100px;
-}
 
 /* #endregion contact */
 
-/* #region info */
-#info{
+/* #endregion main */
+
+/* #region footer */
+
+/* #region top_footer */
+#top_footer{
     background-color: var(--Boot-secondary_light);
 }
 .location{
@@ -73,16 +72,17 @@ button.btn.btn-primary{
     background-color: brown;
     height: 80px;
 }
-/* #endregion info */
+/* #endregion top_footer */
 
-/* #endregion main */
-
-/* #region footer */
-#site_footer{
+/* #region bottom_footer */
+#bottom_footer{
     background-color: var(--Boot-secondary_dark);
 }
 .copyright{
     background-color: violet;
     height: 50px;
 }
+
+/* #endregion bottom_footer */
+
 /* #endregion footer */
