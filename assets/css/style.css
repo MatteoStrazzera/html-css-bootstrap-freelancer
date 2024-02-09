@@ -12,7 +12,9 @@
 /* #endregion common */
 
 /* utilities */
-
+.text_decoration{
+    text-decoration: none;
+}
 
 /* utilities */
 
@@ -41,14 +43,6 @@
 /* #region about */
 #about{
     background-color: var(--Boot-primary);
-}
-.text{
-    background-color: burlywood;
-    height: 100px;
-}
-.btn{
-    background-color: purple;
-    height: 50px;
 }
 
 /* #endregion about */
