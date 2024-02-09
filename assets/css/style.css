@@ -12,7 +12,16 @@
 /* #endregion common */
 
 /* utilities */
-
+.text_primary{
+    color: var(--Boot-primary);
+}
+.icon_link{
+    border: 1px solid var(--Boot-lighter);
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    width: 2.5rem;
+    height: 2.5rem;
+}
 /* utilities */
 button.btn.btn-primary{
     background-color: var(--Boot-primary);
