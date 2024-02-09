@@ -11,6 +11,12 @@
 
 /* #endregion common */
 
+/* utilities */
+
+
+/* utilities */
+
+
 /* #region header */
 #site_header{
     background-color: var(--Boot-secondary_dark);
@@ -24,11 +30,6 @@
 #start{
     background-color: var(--Boot-primary);
 
-    & .jumbotron{
-        
-        height: 200px;
-        background-color: yellowgreen;
-    }
 }
 
 /* #endregion start */
