@@ -17,7 +17,9 @@
 }
 
 /* utilities */
-
+button.btn.btn-primary{
+    background-color: var(--Boot-primary);
+}
 
 /* #region header */
 #site_header{
